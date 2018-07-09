@@ -25,6 +25,7 @@ class DefaultController extends AppController
      */
     public function defaultView(Request $request, Response $response, $args)
     {
+        var_dump(111); die();
         //var_dump($this->getModel()->getDefault()->getAll()->toArray()); die();
 
         $this->getView()->render($response, 'default.twig');
