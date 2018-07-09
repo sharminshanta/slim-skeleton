@@ -1,0 +1,16 @@
+build/*
+/vendor/
+/logs/*
+!/logs/.gitkeep
+/tmp/*
+!/tmp/.gitkeep
+.idea/*
+.git/*
+patches/*
+config.php
+
+coverage.clover
+/public/assets/img/profiles/*
+!/public/assets/img/profiles/.gitkeep
+
+.env
