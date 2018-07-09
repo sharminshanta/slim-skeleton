@@ -1,7 +1,7 @@
 {
     "name": "sharmin/slim-skeleton",
     "description": "slim project with twig",
-    "type": "project",
+    "type": "vcs",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
