@@ -3,7 +3,7 @@
     "description": "slim project with twig",
     "type": "project",
     "license": "MIT",
-    "minimum-stability": "dev-master",
+    "minimum-stability": "dev",
     "require": {
         "slim/slim": "^3.9",
         "hassankhan/config": "^0.11.2",
