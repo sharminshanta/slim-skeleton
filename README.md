@@ -13,13 +13,13 @@
 ```
   After permission, copy the config.sample.php file and change that to config.php and provide the essential credentials to configure your project.
   
-# Run this project in browser
+#### Run this project in browser
   To run this project in browser, run the following command in your terminal.
   ```bash
-    php -S 0.0.0.0:8000 -t public
-```
-  # Contributors
-   Feel free to contribute in this library. Add your own provider and send us pull request.
+     php -S 0.0.0.0:8000 -t public
+  ```
+#### Contributors
+   Feel free to contribute in this library. Add your own provider and send pull request.
    
-# Issue
+#### Issue
   If you have any issue, please write an issue in [https://github.com/sharminex81/slim-skeleton/issues](https://github.com/sharminex81/slim-skeleton/issues)
