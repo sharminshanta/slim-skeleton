@@ -11,7 +11,7 @@
 ```bash
   sudo chmod 777 -R slim-skeleton
 ```
-  After permission, copy the #config.sample.php file and change that to #config.php and provide the essential credentials to configure your project.
+  After permission, copy the `config.sample.php` file and change that to `config.php` and provide the essential credentials to configure your project.
   
 #### Run this project in browser
   To run this project in browser, run the following command in your terminal.
