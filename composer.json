@@ -7,7 +7,7 @@
             "email": "mimetyshanta@gmail.com"
         }
     ],
-    "type": "project"
+    "type": "project",
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
