@@ -1,7 +1,12 @@
 {
-    "name": "sharmin/slim-skeleton",
+    "name": "sharminex81/slim-skeleton",
     "description": "slim project with twig",
-    "type": "vcs",
+     "authors": [
+        {
+            "name": "Sharmin Shanta",
+            "email": "mimetyshanta@gmail.com"
+        }
+    ],
     "license": "MIT",
     "minimum-stability": "dev",
     "require": {
