@@ -1,5 +1,5 @@
 # slim-project
-  This is slim skeleton with twig view and eloquent ORM. Using this you can make your web application.
+  This is slim skeleton with [twig template](https://twig.symfony.com/doc/2.x/templates.html) and [eloquent ORM](https://laravel.com/docs/5.0/eloquent). Using this you can make your web application.
 
 #### Installation
   Please install this project with `composer`. Run the following composer command to install this project
