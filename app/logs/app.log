@@ -1,0 +1,8 @@
+[2019-07-08 16:42:17] app_log.INFO: [mysql_query] select * from `phppos_employees` limit 1 executed in 273.290000 milliseconds {"pdo_bindings":[]} {"url":"/","ip":"127.0.0.1","http_method":"GET","server":"localhost","referrer":null,"process_id":18713}
+[2019-07-08 16:42:17] app_log.INFO: Okay {"data":"Tested"} {"url":"/","ip":"127.0.0.1","http_method":"GET","server":"localhost","referrer":null,"process_id":18713}
+[2019-07-08 16:47:11] app_log.INFO: [mysql_query] select * from `phppos_employees` limit 1 executed in 88.240000 milliseconds {"pdo_bindings":[]} {"url":"/","ip":"127.0.0.1","http_method":"GET","server":"localhost","referrer":null,"process_id":18713}
+[2019-07-08 16:47:11] app_log.INFO: Okay {"data":"Tested"} {"url":"/","ip":"127.0.0.1","http_method":"GET","server":"localhost","referrer":null,"process_id":18713}
+[2019-07-08 16:49:50] app_log.INFO: [mysql_query] select * from `phppos_employees` limit 1 executed in 71.870000 milliseconds {"pdo_bindings":[]} {"url":"/","ip":"127.0.0.1","http_method":"GET","server":"localhost","referrer":null,"process_id":18713}
+[2019-07-08 16:49:50] app_log.INFO: Okay {"data":"Tested"} {"url":"/","ip":"127.0.0.1","http_method":"GET","server":"localhost","referrer":null,"process_id":18713}
+[2019-07-08 16:50:46] app_log.INFO: [mysql_query] select * from `phppos_employees` limit 1 executed in 90.680000 milliseconds {"pdo_bindings":[]} {"url":"/","ip":"127.0.0.1","http_method":"GET","server":"localhost","referrer":null,"process_id":18713}
+[2019-07-08 16:50:46] app_log.INFO: Okay {"data":"Tested"} {"url":"/","ip":"127.0.0.1","http_method":"GET","server":"localhost","referrer":null,"process_id":18713}
