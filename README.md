@@ -22,4 +22,4 @@
    Feel free to contribute in this library. Add your own provider and send pull request.
    
 #### Issue
-  If you have any issue, please write an issue in [https://github.com/sharminex81/slim-skeleton/issues](https://github.com/sharminex81/slim-skeleton/issues)
+  If you have any issue, please write an issue in [https://github.com/sharminshanta/slim-skeleton/issues](https://github.com/sharminex81/slim-skeleton/issues)
