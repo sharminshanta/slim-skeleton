@@ -9,7 +9,7 @@ use Sharminshanta\Web\Accounts\Model\ModelLoader;
 
 /**
  * Class AppController
- * @package Previewtechs\Web\CareerWebsite\Controller
+ * @package Sharminshanta\Web\Accounts\Controller
  */
 class AppController
 {
